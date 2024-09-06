@@ -1,0 +1,13 @@
+streamlit
+folium
+streamlit_folium
+pandas
+langchain
+python-dotenv
+requests
+FAISS
+pandas
+openai
+langchain
+faiss-cpu
+langchain-community
